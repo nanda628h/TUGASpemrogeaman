@@ -16,7 +16,7 @@ Gunakan if else dan operator ternary.
 - Jika pengguna memiliki kartu member dan harga tiket valid, program menghitung diskon 20% dari harga tiket.
 - Total harga yang harus dibayar kemudian ditampilkan, dengan format dua angka desimal, jika harga tiket lebih dari 0.
 
-# kode progam 
+## kode progam 
 ``` python
 # Fungsi untuk menghitung total harga tiket
 def hitung_harga_tiket():
@@ -43,14 +43,14 @@ def hitung_harga_tiket():
 # Memanggil fungsi
 hitung_harga_tiket()
 ```
-# output program 
+## output program 
 ``` python
 Masukkan tipe tiket (reguler/VIP): VIP
 Apakah Anda memiliki kartu member? (ya/tidak): ya
 Total harga yang harus dibayar: Rp120000.00
 PS C:\Users\NANDA>
 ```
-# flowchart latihan 1
+## flowchart latihan 1
 
 
 
